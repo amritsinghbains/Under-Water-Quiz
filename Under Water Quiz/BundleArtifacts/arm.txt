@@ -1,0 +1,2 @@
+MainPackage=C:\Users\amrit\Documents\Visual Studio 2015\Projects\Under Water Quiz\Under Water Quiz\bin\ARM\Release\Under Water Quiz_1.1.1.0_ARM.appx
+SymbolPackage=C:\Users\amrit\Documents\Visual Studio 2015\Projects\Under Water Quiz\Under Water Quiz\AppPackages\Under Water Quiz_1.1.1.0_Test\Under Water Quiz_1.1.1.0_ARM.appxsym
